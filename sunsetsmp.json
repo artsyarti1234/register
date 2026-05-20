@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "your-github-username",
+        "email": "your-email@gmail.com"
+    },
+    "record": {
+        "A": ["132.145.152.233"]
+    }
+}
